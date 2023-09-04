@@ -1,6 +1,10 @@
 English | Persian
 <br>
 
+<p align="right">
+<img src="https://github.com/NeverWonderLand/iran-exposed/assets/64184513/9cfe124c-6d1f-469a-a3a3-34a886e0e494" alt="9cfe124c-6d1f-469a-a3a3-34a886e0e494"
+</p>
+
 # Behnama Leak Explained
 
 <br>
@@ -13,21 +17,25 @@ English | Persian
 
 <br>
 
+### Subsidiary companies of Fanap holding:
+
+Pasargad Electronic Payment, Abr Arvan, Fanap Telecom, Kuknos (Phoenix), Adonis, Baran Telecom, Fanap Zirsakht (Fanp Infrastructure), Parsa, Lamasoo, Spara, Smilino, Datex, Fanap Plus, Fanap Tech, Fanap Soft, Zitel, Sepandar, Alfa, Rajman, Shenasa, Dotin, Podro.
+
+<br>
+
+## Fannap-infrastructure
+
+This division is in charge of developing multiple software, and here we exposed one of them. Behnama is a video surveillance system that operates on a Linux platform. It is primarily written in C++, PHP, and C. 
+
+This system was initially deployed across all branches of Pasargad Bank, marking its first use. A standout feature of Behnama is its development for facial recognition capabilities, enhancing its surveillance effectiveness.
+
 But they expended they activities way more further than that:
 
     BehNama - Video surveillance using facial recognition (implemented in all Pasargad Bank)
     BehYab - Car GPS and tracking system
     BehKhan - Car plate recognition system (hijab alert)
     BehCard - Face recognition system for printing ID card
-
-<br>
-
-## Connected to the regime
-
-The SSO platform used by the Regime to authenticate user online, are connected to FANAP system that make usage of an API, compiling each details of your life, to classify who has rights to access a service, or not, but also to build a floating card beside your head for facial recognition.
-
-The pod.ir API, access the same system as the SSO, and is also connected to Pasargad Bank. FANAP called it the Podium, and they owns it. Pod is  management platform for all kind of monitoring, people or, internet.
-
+    
 <br>
 
 ## Pasargad Financial Group
@@ -78,17 +86,9 @@ Some companies owned by Pasargad Financial Group:
 
 <br>
 
-## Fannap-infrastructure
-
-This division is in charge of developing multiple software, and here we exposed one of them. Behnama is a video surveillance system that operates on a Linux platform. It is primarily written in C++, PHP, and C. 
-
-This system was initially deployed across all branches of Pasargad Bank, marking its first use. A standout feature of Behnama is its development for facial recognition capabilities, enhancing its surveillance effectiveness.
-
-<br>
-
 ## Behnama
 
-It is built on microservice architecture, it contains RTSP client, recording, web-app, webrtc, API, analyzer, Kafka, ONVIF, PostgressDB and influxDB services.
+The software is built on microservice architecture and contains components like: RTSP client, recording, web-app, webrtc, API, analyzer, Kafka, ONVIF, PostgressDB and influxDB services.
 
 Some of their utilities:
 
