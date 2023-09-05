@@ -32,8 +32,6 @@
 - Primary mission was to design and prepare a native Iranian banking solution
 - Funded Arvan Cloud.
 
-<br>
-
 ### Subsidiary companies of Fanap holding:
 
 Pasargad Electronic Payment, Abr Arvan, Fanap Telecom, Kuknos (Phoenix), Adonis, Baran Telecom, Fanap Zirsakht (Fanp Infrastructure), Parsa, Lamasoo, Spara, Smilino, Datex, Fanap Plus, Fanap Tech, Fanap Soft, Zitel, Sepandar, Alfa, Rajman, Shenasa, Dotin, Podro.
