@@ -21,7 +21,7 @@
 <br>
 
 <p align="center">
-<img src="https://github.com/NeverWonderLand/iran-exposed/assets/64184513/28575a5e-7a40-482b-9e9d-2996ceecf744" alt="28575a5e-7a40-482b-9e9d-2996ceecf744"
+<img src="https://cybershafarat.com/wp-content/uploads/2023/08/IMG_20230828_052706_287.jpg" alt="IMG_20230828_052706_287.jpg"
 </p>
 
 <br><br>
@@ -39,7 +39,7 @@ Pasargad Electronic Payment, Abr Arvan, Fanap Telecom, Kuknos (Phoenix), Adonis,
 <br>
 
 <p align="center">
-<img src="https://github.com/NeverWonderLand/iran-exposed/assets/64184513/8ad00fdb-4cb9-4e57-a6c8-cce1e0817862" alt="8ad00fdb-4cb9-4e57-a6c8-cce1e0817862"
+<img src=https://github.com/NeverWonderLand/iran-exposed/assets/64184513/b5a36fc7-5cef-43c3-8f53-26c31563ae34" alt="b5a36fc7-5cef-43c3-8f53-26c31563ae34"
 </p>
 
 <br>
