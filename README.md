@@ -50,20 +50,62 @@ FANAP also have multiple sub companies, and has developed everything in order to
 
 ## Behnama
 
-The software is built on microservice architecture and contains components like: RTSP client, recording, web-app, webrtc, API, analyzer, Kafka, ONVIF, PostgressDB and influxDB services.
+The initial company that developed Behnama software was Behpooyesh.
 
-Some of their utilities:
+They was specialized in:
 
-    • Kafka from Apache, is a service likely used for real-time processing of video data from multiple sources.
+    • Software production
+    • Video Surveillance
+    • GIS
+    • Digital Signage
+    • License Place Recognition
+    • Image Processing
 
-    • Redis and Postgres services are likely used to store metadata or analysis results. They store information about when and where each face was detected, or they might store the facial recognition results.
+<br>
 
-    • ONVIF service and RTSP client are used to interact with IP cameras that support these protocols. They arr used to retrieve the video data    that is processed by the Kafka and Analyzer services.
+> After getting acquainted with Fanap company, it was then included in the group of holding companies of Fanap. 
+<br>
 
-    • The Jaeger, SeaweedFS, ELK stack, and Filebeat services are likely used for system monitoring and debugging. They are used to trace system   activity, store system data, log system events, and ship logs to a centralized location for analysis.
+The software is built on microservice architecture and contains components like: 
+
+    - RTSP 
+    - Recording
+    - Webrtc
+    - API
+    - Analyzer
+    - Kafka
+    - ONVIF
+    - PostgreSQL
+    - InfluxDB
+
+<br>
 
 The software seems to connect to vCenter, a centralized management application and framework that acts as a proxy for managing VMware vSphere environments. They are also connected to a monitoring panel owned by Net Negar (netnegar.io) that seems adapted for the National internet project.
 
-The software use an API to connects to pod.ir by MQTT protocol. Pod is a grand plan to create an infrastructural and comprehensive platform designed and developed by Fanap, in order to develop sub-platforms and online businesses. This platform is connected to Pasargad Bank and all the businesses developed in it are connected to the digital platforms of this bank. The Pod API documentation include a whole section for facial recognition. https://accounts.pod.ir/apidocs/
+<br> 
+
+## Pod
+
+The software use an API to connects to pod.ir by MQTT protocol. 
+
+Pod is a grand plan to create an infrastructural and comprehensive platform designed and developed by Fanap, in order to develop sub-platforms and online businesses. 
+
+This platform is connected to Pasargad Bank and all the businesses developed in it are connected to the digital platforms of this bank. 
+
+The Pod API documentation include a whole section for facial recognition. https://accounts.pod.ir/apidocs/
 
 | See [ANNEXE B](https://github.com/NeverWonderLand/iran-exposed/blob/main/ANNEXE_B.md) to understand what is the Pod API.
+
+<br>
+
+## SHAHKAR
+
+| The Pod API system is tied to SHAHKAR as you can see [here](https://accounts.pod.ir/apidocs/#/Verifications/manualShahkarVerify).
+
+**SHAHKAR System** – A data warehouse which stores information about all mobile subscribers in Iran to check the “validity of users” and prohibit any registration attempt if the CRA determines the attempt to be invalid. The purpose of the SHAHKAR system is to notify the CRA of users attempting to change to a different service provider, update their subscription information or change their phone number. 
+
+SHAHKAR prevents users from acquiring new mobile accounts with multiple service providers. This implies that Iran maintains a 1:1 mapping of a user to a SIM profile to simplify its ability to conduct surveillance operations. It provides the CRA with the ability to immediately cancel a user request for a new mobile account or make changes to existing accounts.
+
+| For more informations about SHAHKAR system please read this [article](https://citizenlab.ca/2023/01/uncovering-irans-mobile-legal-intercept-system/).
+
+<br>
