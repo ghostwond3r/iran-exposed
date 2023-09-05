@@ -180,3 +180,5 @@ He is now the council to the CEO of FANAP holding, and the secretary of the Iran
 In 2021, Arvan engaged in a contract with Ministry of ICT of Iran on Iran Cloud project. The project is set to deploy National Information Network, a network that allows the Iranian government to cut off Iranian users' access to the internet and provide them only domestic networks.
 
 > For more details about this please read this [article](https://en.radiozamaneh.com/31799/).
+
+> To understand the structure of the National Information Network read [here](https://github.com/NeverWonderLand/INTRA/blob/main/README.md)
