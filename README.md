@@ -154,3 +154,27 @@ The identification was found here:
 > The model use is Yolov5 - Crowdhuman
 
 > MFR model is also use (you can see it as well in some .pyc files)
+
+<br>
+
+## The link with the National Information Network
+
+This is an important part to understand the real extend of the Behnama software. The facial recognition itself is relying on other crucial components of the future Iranian Intranet.
+
+Abr Arvan, which presents itself as the first content delivery network in Iran, was launched in a conference titled “Explaining Strategies for Developing a Content Distribution Network in the Context of the National Information Network.”
+
+The company started in 2014, with the aim of producing cloud technological products. The founding team consisted of four people, whose first acquaintance was formed in the World Skills Competition. These people were selected as the first team product in March 2015 in the Fanap Innovation Competition.
+
+Abr Arvan had fundraised in two phases, both of which were carried out by FANAP. Abr Arvan has always been a subset of FANAP holding, and one of its main companies.
+
+FANAP holding was founded on December 15, 2005, through an investment by Pasargad Financial Group (Pasargad Bank). Pasargad Bank was also founded in 2005, with an official license from the Central Bank of Iran, and a 350 billion tomans fund which was fully paid.
+
+Pasargad Financial Group has more than 22 holdings and large companies, many of which are chaired by Ghasemi, including FANAP. FANAP holding has more than thirteen subsidiary companies.
+
+Mostafa Naghipourfar was the chairman of Abr Arvan from the company’s founding in 2015 until 2018. Besides being the first chairman of Abr Arvan and one of its founders, he is one of the founders of FANAP holding. 
+
+He is now the council to the CEO of FANAP holding, and the secretary of the Iranian Association of New Financial Technologies (Fintech). Naghipourfar has been the CEO and chairman of more than 10 companies so far, some of which were subsets of FANAP holding, such as Baran Telecom, Inc.
+
+In 2021, Arvan engaged in a contract with Ministry of ICT of Iran on Iran Cloud project. The project is set to deploy National Information Network, a network that allows the Iranian government to cut off Iranian users' access to the internet and provide them only domestic networks.
+
+> For more details about this please read this [article](https://en.radiozamaneh.com/31799/).
