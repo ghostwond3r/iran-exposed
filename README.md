@@ -15,7 +15,7 @@ English | Persian
 
 [SHAHKAR](https://github.com/NeverWonderLand/iran-exposed/blob/main/README.md#shahkar)
 
-[Machine Learning]()
+[Machine Learning](https://github.com/NeverWonderLand/iran-exposed/blob/main/README.md#machine-learning)
 
 <br>
 
@@ -151,4 +151,5 @@ The identification was found here:
     ANALYZER/CORE/PEOPLE_COUNTER/pycache/people_counter.cpython-37.pyc
 
 > The model use is Yolov5 - Crowdhuman
+
 > MFR model is also use (you can see it as well in some .pyc files)
