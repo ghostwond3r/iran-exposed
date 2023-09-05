@@ -66,4 +66,4 @@ The software seems to connect to vCenter, a centralized management application a
 
 The software use an API to connects to pod.ir by MQTT protocol. Pod is a grand plan to create an infrastructural and comprehensive platform designed and developed by Fanap, in order to develop sub-platforms and online businesses. This platform is connected to Pasargad Bank and all the businesses developed in it are connected to the digital platforms of this bank. The Pod API documentation include a whole section for facial recognition. https://accounts.pod.ir/apidocs/
 
-| See [ANNEXE A](https://github.com/NeverWonderLand/iran-exposed/blob/main/ANNEXE_A.md) to understand what is the Pod API.
+| See [ANNEXE B](https://github.com/NeverWonderLand/iran-exposed/blob/main/ANNEXE_B.md) to understand what is the Pod API.
