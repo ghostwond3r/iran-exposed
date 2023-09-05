@@ -1,14 +1,28 @@
 English | Persian
 <br>
 
-<p align="right">
-<img src="https://github.com/NeverWonderLand/iran-exposed/assets/64184513/9cfe124c-6d1f-469a-a3a3-34a886e0e494" alt="9cfe124c-6d1f-469a-a3a3-34a886e0e494"
-</p>
-
 # Behnama Leak Explained
+    
+[What is Fanap?](https://github.com/NeverWonderLand/iran-exposed/blob/main/README.md#what-is-fanap)
 
+[Fanap-Infrastructure](https://github.com/NeverWonderLand/iran-exposed/blob/main/README.md#fannap-infrastructure)
+
+[Pasargad Group](https://github.com/NeverWonderLand/iran-exposed/blob/main/README.md#pasargad-financial-group)
+
+[Behnama](https://github.com/NeverWonderLand/iran-exposed/blob/main/README.md#behnama)
+
+[Pod](https://github.com/NeverWonderLand/iran-exposed/blob/main/README.md#pod)  
+
+[SHAHKAR](https://github.com/NeverWonderLand/iran-exposed/blob/main/README.md#shahkar)
+    
 <br>
 
+<p align="center">
+<img src="https://github.com/NeverWonderLand/iran-exposed/assets/64184513/28575a5e-7a40-482b-9e9d-2996ceecf744" alt="28575a5e-7a40-482b-9e9d-2996ceecf744"
+</p>
+
+<br><br>
+    
 ## What is FANAP?
 
 - Established with the investment of Pasargad Financial Group
