@@ -14,7 +14,13 @@ English | Persian
 [Pod](https://github.com/NeverWonderLand/iran-exposed/blob/main/README.md#pod)  
 
 [SHAHKAR](https://github.com/NeverWonderLand/iran-exposed/blob/main/README.md#shahkar)
-    
+
+[Machine Learning]()
+
+<br>
+
+> There is no databases with the faces of people that have been leaks, only the code itself.
+
 <br>
 
 <p align="center">
@@ -66,6 +72,12 @@ FANAP also have multiple sub companies, and has developed everything in order to
 
 The initial company that developed Behnama software was Behpooyesh.
 
+The website was first registred on 31 JUL 2016.
+
+    Name: Ali Asghar Rostami
+    Company: Behpooyesh iranian asia 
+    Email: h.rostami@behpooyesh.com
+
 They was specialized in:
 
     • Software production
@@ -79,6 +91,8 @@ They was specialized in:
 
 > After getting acquainted with Fanap company, it was then included in the group of holding companies of Fanap. 
 <br>
+
+Behnama is not just a tool; it is a powerful instrument of surveillance. It is being actively used by the Iranian government, law enforcement agencies, and military personnel, marking a significant development in the country's surveillance capabilities.
 
 The software is built on microservice architecture and contains components like: 
 
@@ -120,6 +134,21 @@ The Pod API documentation include a whole section for facial recognition. https:
 
 SHAHKAR prevents users from acquiring new mobile accounts with multiple service providers. This implies that Iran maintains a 1:1 mapping of a user to a SIM profile to simplify its ability to conduct surveillance operations. It provides the CRA with the ability to immediately cancel a user request for a new mobile account or make changes to existing accounts.
 
+Relationship between Iran’s Legal Intercept System Interfaces and Mobile Service Provider Systems along with examples of Legal Intercept System Commands that query user information and control services.
+
+This, joint with the Behnama software, make a pure invasive system.
+
 | For more informations about SHAHKAR system please read this [article](https://citizenlab.ca/2023/01/uncovering-irans-mobile-legal-intercept-system/).
 
 <br>
+
+## Machine Learning 
+
+A machine learning model (AI) use by the analyzer for the facial recognition process has been identified.
+
+The identification was found here:
+
+    ANALYZER/CORE/PEOPLE_COUNTER/pycache/people_counter.cpython-37.pyc
+
+> The model use is Yolov5 - Crowdhuman
+> MFR model is also use (you can see it as well in some .pyc files)
