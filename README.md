@@ -1,6 +1,3 @@
-English | Persian
-<br>
-
 # Behnama Leak Explained
     
 [What is Fanap?](https://github.com/NeverWonderLand/iran-exposed/blob/main/README.md#what-is-fanap)
