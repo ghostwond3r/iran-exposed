@@ -44,7 +44,7 @@ The Pasargad Financial Group is comprised of Pasargad Bank and several other com
 
 FANAP also have multiple sub companies, and has developed everything in order to deploy the National Information Network (intranet).
 
-| To see all companies owned by them please see ANNEXE A.
+| To see all companies owned by them please see [ANNEXE A](https://github.com/NeverWonderLand/iran-exposed/blob/main/ANNEXE_A.md).
 
 <br>
 
