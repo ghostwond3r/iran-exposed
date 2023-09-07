@@ -73,7 +73,7 @@ FANAP also have multiple sub companies, and has developed everything in order to
 
 ## Behnama
 
-The initial company that developed Behnama software was Behpooyesh.
+The initial company that developed Behnama software was Behpooyesh and it should be note that by their customers was either government companies or, morality police whose main function is to ensure the respect of Islam rules (like the port of hijab).
 
 The website was first registred on 31 JUL 2016.
 
