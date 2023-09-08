@@ -182,3 +182,27 @@ In 2021, Arvan engaged in a contract with Ministry of ICT of Iran on Iran Clou
 > For more details about this please read this [article](https://en.radiozamaneh.com/31799/).
 
 > To understand the structure of the National Information Network read [here](https://github.com/NeverWonderLand/INTRA/blob/main/README.md)
+
+<br>
+
+## Related News
+
+https://www.iranintl.com/202308301733
+
+https://www.forbes.com/sites/emmawoollacott/2023/08/29/hacktivists-breach-iranian-surveillance-system/?sh=309eba094863
+
+https://medium.com/@ronkaminskyy/unveiling-irans-spyware-software-breach-8317b641b134
+
+https://cybernews.com/cyber-war/iran-spyware-breached-exposed-ghostsec/
+
+https://cyberint.com/blog/research/ghostsec-iranian-surveillance-software/
+
+https://internetintelligence.eu/irans-fanap-software-faces-breach-by-ghostsec-hactivist-group/
+
+https://cybershafarat.com/2023/08/28/what-is-fanap-behnama-iran-leak/
+
+https://www.biometricupdate.com/202308/hacktivists-claim-to-expose-facial-recognition-used-by-iranian-regime-to-catch-dissenters
+
+https://findbiometrics.com/irans-surveillance-regime-gets-hacked-identity-news-digest/
+
+https://biz.crast.net/hacktivists-breach-iranian-surveillance-system/
